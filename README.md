@@ -1,3 +1,1 @@
-# base react skeleton
-
-Base react skeleton
+Base react skeleton for devslopes
